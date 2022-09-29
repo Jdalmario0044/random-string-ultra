@@ -1,0 +1,24 @@
+{
+  "name": "random-string-ultra",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdalmario0044/random-string-ultra.git"
+  },
+  "keywords": [],
+  "author": "Jose Almario <josealmario084@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jdalmario0044/random-string-ultra/issues"
+  },
+  "homepage": "https://github.com/Jdalmario0044/random-string-ultra#readme",
+  "bin": {
+    "random-string-ultra": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
